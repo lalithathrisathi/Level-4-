@@ -1,0 +1,11 @@
+
+<html>
+  <body>
+    <h1>This is my first project and its title</h1>
+    <h2>This is my second heading</h2>
+    <p>This is my paragraph</p>
+    <img
+      src="https://images.pexels.com/photos/2662116/pexels-photo-2662116.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    />
+  </body>
+</html>
